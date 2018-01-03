@@ -9,6 +9,7 @@
 ```
     npm install ts-node -g
     npm install typescript-node -g
+    npm install typescript -g
 ```
 
 ## Steps to Run
@@ -100,7 +101,7 @@ angular2-MEAN
     ├── README.md
     ├── tsconfig.json
     ├── tslint.json
-    
+
 ```
 
 ## Features (Angular4, Express, Gulp, MongoDB, Node)
